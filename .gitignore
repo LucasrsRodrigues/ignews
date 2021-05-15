@@ -23,6 +23,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+stripe.exe
 
 # local env files
 .env.local
